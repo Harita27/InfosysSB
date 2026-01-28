@@ -1,4 +1,4 @@
-# Infosys-Project-Group4-
+# Infosys-Project-Group4
 # 🏥 Online Medication & Prescription Tracker
 
 Welcome to the **Medication Tracker Project** (Group 4).
