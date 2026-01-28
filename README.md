@@ -77,4 +77,4 @@ Use these accounts to test the different roles:
 - **Analytics:** Visual charts for health and sales data.
 
 ---
-*Internship Project - Group 4*
+
